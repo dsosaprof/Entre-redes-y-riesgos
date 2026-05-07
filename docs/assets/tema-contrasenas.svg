@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" role="img" aria-labelledby="title desc">
+  <title id="title">Contrasenas seguras</title>
+  <desc id="desc">Un candado y puntos de una clave segura.</desc>
+  <rect width="360" height="220" rx="18" fill="#eef6f8"/>
+  <path d="M60 170c45-71 92-89 141-58 35 22 63 19 100-24v89H60z" fill="#fdf3e7"/>
+  <rect x="107" y="91" width="146" height="84" rx="16" fill="#1a1814"/>
+  <path d="M137 94V73c0-25 18-43 43-43s43 18 43 43v21" fill="none" stroke="#2c6e8a" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="180" cy="132" r="13" fill="#e67e22"/>
+  <path d="M180 143v18" stroke="#e67e22" stroke-width="10" stroke-linecap="round"/>
+  <g fill="#c0392b">
+    <circle cx="76" cy="68" r="8"/>
+    <circle cx="282" cy="64" r="8"/>
+    <circle cx="304" cy="139" r="8"/>
+  </g>
+  <g stroke="#2c6e8a" stroke-width="6" stroke-linecap="round">
+    <path d="M68 104h32"/>
+    <path d="M269 107h31"/>
+    <path d="M78 132h18"/>
+  </g>
+</svg>

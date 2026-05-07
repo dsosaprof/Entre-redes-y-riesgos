@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 842 595" role="img" aria-labelledby="title desc">
+  <title id="title">Tarjetas imprimibles de alerta digital</title>
+  <desc id="desc">Seis tarjetas de alerta para recortar y usar en clase.</desc>
+  <rect width="842" height="595" fill="#ffffff"/>
+  <text x="40" y="48" font-family="Georgia, serif" font-size="30" font-weight="700" fill="#1a1814">Tarjetas de alerta</text>
+  <text x="40" y="75" font-family="Verdana" font-size="14" fill="#3d3a35">Recorta, reparte y pide que el equipo explique qué haría.</text>
+  <g font-family="Verdana">
+    <g transform="translate(40 105)">
+      <rect width="235" height="135" rx="14" fill="#fdf3e7" stroke="#c0392b" stroke-width="4"/>
+      <text x="20" y="35" font-size="17" font-weight="700" fill="#c0392b">Ciberacoso</text>
+      <text x="20" y="68" font-size="14" fill="#1a1814">Alguien sube burlas o</text>
+      <text x="20" y="91" font-size="14" fill="#1a1814">capturas para humillar.</text>
+      <text x="20" y="119" font-size="13" font-weight="700" fill="#1a1814">Acción: guarda evidencia.</text>
+    </g>
+    <g transform="translate(304 105)">
+      <rect width="235" height="135" rx="14" fill="#eef6f8" stroke="#2c6e8a" stroke-width="4"/>
+      <text x="20" y="35" font-size="17" font-weight="700" fill="#2c6e8a">Contraseña</text>
+      <text x="20" y="68" font-size="14" fill="#1a1814">Usas la misma clave</text>
+      <text x="20" y="91" font-size="14" fill="#1a1814">en redes y videojuegos.</text>
+      <text x="20" y="119" font-size="13" font-weight="700" fill="#1a1814">Acción: cambia y activa 2FA.</text>
+    </g>
+    <g transform="translate(568 105)">
+      <rect width="235" height="135" rx="14" fill="#fff2de" stroke="#e67e22" stroke-width="4"/>
+      <text x="20" y="35" font-size="17" font-weight="700" fill="#b85d12">Phishing</text>
+      <text x="20" y="68" font-size="14" fill="#1a1814">Un mensaje pide códigos</text>
+      <text x="20" y="91" font-size="14" fill="#1a1814">o contraseña con urgencia.</text>
+      <text x="20" y="119" font-size="13" font-weight="700" fill="#1a1814">Acción: no abras el enlace.</text>
+    </g>
+    <g transform="translate(40 285)">
+      <rect width="235" height="135" rx="14" fill="#eef7f0" stroke="#3f7d58" stroke-width="4"/>
+      <text x="20" y="35" font-size="17" font-weight="700" fill="#3f7d58">Privacidad</text>
+      <text x="20" y="68" font-size="14" fill="#1a1814">Una app pide permisos</text>
+      <text x="20" y="91" font-size="14" fill="#1a1814">que no necesita.</text>
+      <text x="20" y="119" font-size="13" font-weight="700" fill="#1a1814">Acción: revisa configuración.</text>
+    </g>
+    <g transform="translate(304 285)">
+      <rect width="235" height="135" rx="14" fill="#f4edf8" stroke="#7f4aa0" stroke-width="4"/>
+      <text x="20" y="35" font-size="17" font-weight="700" fill="#7f4aa0">Grooming</text>
+      <text x="20" y="68" font-size="14" fill="#1a1814">Alguien pide secreto,</text>
+      <text x="20" y="91" font-size="14" fill="#1a1814">fotos o una videollamada.</text>
+      <text x="20" y="119" font-size="13" font-weight="700" fill="#1a1814">Acción: busca apoyo adulto.</text>
+    </g>
+    <g transform="translate(568 285)">
+      <rect width="235" height="135" rx="14" fill="#edf4fb" stroke="#1f6f8b" stroke-width="4"/>
+      <text x="20" y="35" font-size="17" font-weight="700" fill="#1f6f8b">Identidad digital</text>
+      <text x="20" y="68" font-size="14" fill="#1a1814">Publicas datos que dicen</text>
+      <text x="20" y="91" font-size="14" fill="#1a1814">dónde estudias o vives.</text>
+      <text x="20" y="119" font-size="13" font-weight="700" fill="#1a1814">Acción: limita lo visible.</text>
+    </g>
+  </g>
+  <text x="40" y="545" font-family="Verdana" font-size="13" fill="#6b6560">DUA: cada tarjeta ofrece color, palabra clave, situación y acción. Puede responderse oralmente, por escrito o con dibujo.</text>
+</svg>
