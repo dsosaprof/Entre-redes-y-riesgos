@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" role="img" aria-labelledby="title desc">
+  <title id="title">Ciberacoso</title>
+  <desc id="desc">Mensajes en pantalla con un escudo de apoyo.</desc>
+  <rect width="360" height="220" rx="18" fill="#fdf3e7"/>
+  <circle cx="295" cy="50" r="34" fill="#2c6e8a" opacity=".15"/>
+  <circle cx="60" cy="176" r="44" fill="#c0392b" opacity=".12"/>
+  <rect x="78" y="43" width="204" height="132" rx="20" fill="#1a1814"/>
+  <rect x="94" y="60" width="172" height="96" rx="12" fill="#fff"/>
+  <rect x="111" y="78" width="98" height="19" rx="9.5" fill="#dbeef3"/>
+  <rect x="151" y="106" width="87" height="19" rx="9.5" fill="#f4c7bd"/>
+  <rect x="111" y="132" width="70" height="18" rx="9" fill="#dbeef3"/>
+  <path d="M246 117c22 8 38 21 47 40-22 10-39 10-53 0 8-13 10-26 6-40z" fill="#2c6e8a"/>
+  <path d="m255 146 11 10 20-25" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="122" cy="86" r="5" fill="#2c6e8a"/>
+  <circle cx="225" cy="115" r="5" fill="#c0392b"/>
+</svg>
